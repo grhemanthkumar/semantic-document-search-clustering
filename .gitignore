@@ -1,0 +1,21 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.dist/
+build/
+
+# Downloaded model caches and local run outputs
+.cache/
+.cache_huggingface/
+results/*.csv
+results/*.json
+!results/.gitkeep
+
+# Local editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
