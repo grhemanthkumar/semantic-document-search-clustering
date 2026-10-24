@@ -1,0 +1,11 @@
+query_id,query,category
+q01,Find a model that understands that similar words can express the same idea,ai_ml
+q02,How can a system answer questions by looking up useful passages first,ai_ml
+q03,Using scans to find signs of illness,healthcare
+q04,Protecting a patient's private medical records,healthcare
+q05,Storing extra solar power for cloudy hours,climate
+q06,Planning cities that stay cooler during heat waves,climate
+q07,Stopping fake messages from stealing account details,cybersecurity
+q08,Keeping passwords safe if a service is hacked,cybersecurity
+q09,Reducing delay when many players join an online game,software_systems
+q10,Handling more website visitors by sharing traffic between computers,software_systems

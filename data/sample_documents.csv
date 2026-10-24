@@ -1,0 +1,31 @@
+doc_id,title,text,category
+ai01,Contextual word representations,"Embeddings place words with related meanings near one another, allowing models to compare concepts even when wording differs.",ai_ml
+ai02,Neural language models,"A language model learns patterns from text and predicts a likely next token using the words that came before it.",ai_ml
+ai03,Medical image learning,"Convolutional neural networks can learn visual patterns in scans and support classification of medical images.",ai_ml
+ai04,Retrieval augmented generation,"A retrieval system can find relevant passages and provide them as context before a language model writes an answer.",ai_ml
+ai05,Unsupervised representation learning,"Unsupervised learning methods organize examples by structure without requiring a human label for every document.",ai_ml
+ai06,Evaluating text embeddings,"Text embeddings can be evaluated by checking whether paraphrases and related concepts receive higher similarity scores than unrelated examples.",ai_ml
+health01,Detecting disease in scans,"Radiologists use medical imaging to inspect tissue and identify signs of disease in X-rays, CT scans, and MRI studies.",healthcare
+health02,Personalized treatment planning,"Clinical decision support combines patient history and test results to help clinicians compare treatment options for an individual.",healthcare
+health03,Hospital readmission risk,"Predictive models can estimate which patients may return to hospital soon after discharge so care teams can plan follow-up support.",healthcare
+health04,Electronic health records,"A well-designed patient record system helps clinicians find medication history, diagnoses, allergies, and test results during care.",healthcare
+health05,Public health surveillance,"Health agencies monitor changes in reported illness to detect outbreaks and direct limited medical resources.",healthcare
+health06,Privacy in medical data,"Healthcare analytics must protect patient confidentiality while enabling careful study of clinical information.",healthcare
+climate01,Renewable electricity storage,"Large batteries store surplus electricity from wind and solar farms and release power when generation drops.",climate
+climate02,Urban heat reduction,"Cities can reduce heat exposure with shade trees, reflective roofs, parks, and cooler building materials.",climate
+climate03,Measuring carbon emissions,"Climate inventories estimate greenhouse gas emissions from transport, industry, buildings, and electricity use.",climate
+climate04,Coastal flood adaptation,"Coastal communities combine wetland restoration, drainage improvements, and building plans to prepare for rising water.",climate
+climate05,Low carbon transport,"Reliable public transit, cycling routes, and electric buses can reduce pollution from urban travel.",climate
+climate06,Climate forecasting,"Climate models simulate long-term interactions between the atmosphere, oceans, land, and ice under different emissions pathways.",climate
+cyber01,Phishing email detection,"Security filters identify suspicious messages that imitate trusted organizations and attempt to steal login credentials.",cybersecurity
+cyber02,Password storage,"Web services should store salted password hashes rather than readable passwords to limit harm after a database breach.",cybersecurity
+cyber03,Network intrusion monitoring,"Intrusion detection systems inspect network activity for patterns that may signal unauthorized access or malware.",cybersecurity
+cyber04,Encryption in transit,"Transport encryption protects information as it moves between a user's browser and an online service.",cybersecurity
+cyber05,Software supply chain risk,"Dependency scanning helps teams find vulnerable third-party packages before they are deployed.",cybersecurity
+cyber06,Multi factor authentication,"A second verification step makes account takeover harder when an attacker has learned a user's password.",cybersecurity
+sys01,Multiplayer game latency,"Online games use nearby servers and efficient message handling to reduce delays between player actions.",software_systems
+sys02,Database indexing,"Database indexes speed up common searches by allowing a system to locate matching records without scanning every row.",software_systems
+sys03,Distributed service reliability,"Replicated services and health checks help an application continue working when an individual machine fails.",software_systems
+sys04,Operating system memory,"Memory managers allocate space to active programs and reclaim resources when applications finish using them.",software_systems
+sys05,Scalable web architecture,"Load balancers distribute requests across servers so a website can handle traffic spikes more reliably.",software_systems
+sys06,Network protocol design,"Communication protocols define how computers format, send, acknowledge, and recover from lost messages.",software_systems
